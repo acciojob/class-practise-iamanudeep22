@@ -1,5 +1,11 @@
 /*  your css code here. If applicable */
-p.selector:nth-child(even){
+.selector:nth-child(2){
+	color:rgb(0, 0, 255);
+	background-color:rgb(238, 238, 238);
+	font-family:arial;
+	font-size:20px;
+}
+.selector:nth-child(4){
 	color:rgb(0, 0, 255);
 	background-color:rgb(238, 238, 238);
 	font-family:arial;
