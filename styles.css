@@ -1,13 +1,7 @@
 /*  your css code here. If applicable */
-.selector:nth-child(2){
-	color:rgb(0, 0, 255);
-	background-color:rgb(238, 238, 238);
-	font-family:arial;
-	font-size:20px;
-}
-.selector:nth-child(4){
-	color:rgb(0, 0, 255);
-	background-color:rgb(238, 238, 238);
+.selector{
+	color:#00f;
+	background-color:#eee;
 	font-family:arial;
 	font-size:20px;
 }
